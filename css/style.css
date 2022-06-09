@@ -7,6 +7,27 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.about_text{
+    font-size: 22px;
+    color:#000000;
+}
+
+.about_text_bis{
+    font-size: 20px;
+    color:#000000;
+}
+
+.citation_text{
+    font-size: 20px;
+    color:#000000;
+    display: block;
+}
+
+.citation_text_author{
+    font-size: 16px;
+    color:#454444;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
